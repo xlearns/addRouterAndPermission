@@ -1,0 +1,23 @@
+{
+  "myTemplate": {
+    "prefix": "Vue3.0",
+    "body": [
+      "<template>",
+      "\t<div>\n",
+      "\t</div>",
+      "</template>\n",
+      "<script lang='ts'>",
+      "import { defineComponent} from 'vue'",
+      "export default defineComponent({",
+      "\tsetup(){",
+      "\t\treturn{\n\n\t\t}",
+      "\t},",
+      "})",
+      "</script>\n",
+      "<style scoped>\n",
+      "</style>",
+      "$2"
+    ],
+    "description": "Vue3.0"
+  }
+}
