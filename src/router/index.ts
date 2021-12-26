@@ -1,5 +1,5 @@
 import {createRouter,createWebHashHistory} from 'vue-router'
-import {beforeEach} from './test'
+import {beforeEach} from './addRoute'
 const routes = []
 
 //静态路由
